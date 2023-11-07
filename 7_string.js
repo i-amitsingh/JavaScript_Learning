@@ -1,4 +1,4 @@
-const name = "hitesh"
+const name = "Amit"
 const repoCount = 50
 
 // console.log(name + repoCount + " Value");
@@ -22,7 +22,7 @@ console.log(newString);
 const anotherString = gameName.slice(-8, 4)
 console.log(anotherString);
 
-const newStringOne = "   hitesh    "
+const newStringOne = "   Amit    "
 console.log(newStringOne);
 console.log(newStringOne.trim());
 
